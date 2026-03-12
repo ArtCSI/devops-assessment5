@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "2023bcs0097irine/2023BCS0097_2023BCS0097"
+        DOCKER_IMAGE = "2023bcs0097irine/2023bcs0097_2023bcs0097"
         DOCKER_CREDS_ID = "dockerhub-credentials"
     }
 
